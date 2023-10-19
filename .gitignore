@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel
+.cache/
+dist/
+
+# Yarn
+yarn-error.log
+yarn.lock
+.pnp
+.pnp.js
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+.idea/
+
+# Editor directories
+.idea/
+.vscode/
+
+# SASS
+.sass-cache/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env*.local
+.env*.development
+.env*.test
+.env*.production
+
+# Debug
+npm-debug.log
+yarn-error.log
+*.pid
+*.seed
+*.log
