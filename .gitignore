@@ -53,3 +53,4 @@ yarn-error.log
 *.pid
 *.seed
 *.log
+help.md
